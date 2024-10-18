@@ -1,6 +1,5 @@
 package org.sayari.booknetwork.config;
 
-import jakarta.persistence.Column;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
